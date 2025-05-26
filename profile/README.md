@@ -3,10 +3,10 @@
 </p>
 
 <h1 align="center">TICXAR S.A.S</h1>
-<p align="center">Transformamos organizaciones con tecnología de clase mundial.</p>
+<p align="center"></p>
 
 
-# TICXAR · Transformación Digital con Tecnología de Clase Mundial
+# Transformación Digital con Tecnología de Clase Mundial
 
 **TICXAR S.A.S** es una empresa líder en soluciones tecnológicas, especializada en consultoría, automatización, integración de plataformas y servicios gestionados en entornos empresariales críticos. Como aliados estratégicos de compañías globales como **Red Hat**, **WSO2** y **42Crunch**, brindamos capacidades avanzadas en transformación digital, integración de APIs, gobierno de datos y despliegue de infraestructura automatizada.
 
