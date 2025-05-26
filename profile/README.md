@@ -1,4 +1,10 @@
-![Logo TICXAR](https://www.ticxar.co/wp-content/uploads/2019/12/logoclor.png)
+<p align="center">
+  <img src="https://www.ticxar.co/wp-content/uploads/2019/12/logoclor.png" alt="Logo TICXAR" width="250"/>
+</p>
+
+<h1 align="center">TICXAR S.A.S</h1>
+<p align="center">Transformamos organizaciones con tecnología de clase mundial.</p>
+
 
 # TICXAR · Transformación Digital con Tecnología de Clase Mundial
 
