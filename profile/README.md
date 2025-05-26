@@ -1,4 +1,4 @@
-![Logo TICXAR](https://www.ticxar.co/wp-content/uploads/2022/06/logo-ticxar.svg)
+![Logo TICXAR](https://www.ticxar.co/wp-content/uploads/2019/12/logoclor.png)
 
 # TICXAR · Transformación Digital con Tecnología de Clase Mundial
 
